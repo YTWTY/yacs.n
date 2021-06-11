@@ -9,7 +9,7 @@ import store from "@/store";
 
 //Default Colors
 const COLORS = [
-  "#ffd4df", //red
+  "#000000", //red
   "#ceeffc", //blue
   "#fff4d0", //yellow
   "#dcf7da", //green
